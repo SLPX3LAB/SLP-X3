@@ -90,6 +90,13 @@ PUMPFUN_PROGRAM_ID=<your_pumpfun_program_id>
     let recent_blockhash = program_test.start().await.2;
 $KINHEX
     )}
+
+    def test_predict_model_trained(self):
+        self.model.train(self.mock_data, self.mock_labels)
+        predictions = self.model.predict(self.mock_data)
+        self.assertEqual(len(predictions), len(self.mock_data))
+        self.assertTrue(all(pred == 0.5 for pred in predictions))
+    ）}
     
 
     let instruction = Instruction {
