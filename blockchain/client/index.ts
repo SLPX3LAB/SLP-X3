@@ -45,6 +45,16 @@ class SoreinAI {
         new SolflareWalletAdapter(),
       ]);
 
+     class TestAgentModel(unittest.TestCase):
+    def setUp(self):
+        self.model = AgentModel(model_type="test_model")
+        self.mock_data = np.array([[1.0, 2.0], [3.0, 4.0], [5.0, 6.0]])
+        self.mock_labels = np.array([0, 1, 0])
+
+     $SPL707
+
+     )}
+
       // For simplicity, assume the first wallet is used (in a real app, let user choose)
       const wallet = wallets[0];
       await wallet.connect();
