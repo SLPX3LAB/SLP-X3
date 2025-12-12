@@ -1,19 +1,22 @@
-# HUMNODE
+# RUNPAY
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-HUMNODE-blue?logo=google-chrome)](https://humnode.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-HUMNODE-blue?logo=twitter)](https://x.com/HUMNODELAB)
+[![Website](https://img.shields.io/badge/Website-RUNPAY-blue?logo=google-chrome)](https://runpay.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-RUNPAY-blue?logo=twitter)](https://x.com/RUNPAYLAB)
 
 
-Humnode is an SPL protocol designed around a reimagined creator-fee architecture, aiming to solve the core problem in meme and community-driven tokens: value often flows to the team while the community remains passive. Humnode’s mission is to turn creator fees into a source of energy for the community, rather than a revenue stream for the team.
+Runpay — The First x402-Enabled MCP Server on Solana
 
-In Humnode, every Creator Fee is automatically split and routed by the protocol to holders, LPs, nodes, and ecosystem incentive pools—never to the team wallet. This transforms the token economy from “team-dependent” to “community-sustained,” where trading activity becomes the direct fuel that feeds and supports the entire network.
-The more the token moves, the more the community gains; the more active the ecosystem becomes, the stronger and more resilient the internal loop grows.
-This creates a new structure:
-a self-sustaining network powered by trading, shared by the community, and enforced by protocol logic.
+Runpay is a next-generation infrastructure that connects autonomous AI agents directly to Solana through the x402 protocol. It transforms how intelligent systems interact with the blockchain — shifting from free, permissionless chaos to structured, auditable, and pay-per-access execution.
 
-Humnode is not just a new token format—it is a new model of value flow. It turns creator fees from a “cut taken by the team” into a “cycle engine for the ecosystem,” giving tokens the ability to run, feed, and grow on their own.
+At its core, Runpay combines three powerful components: the x402 Payment Gateway, which handles on-chain authentication and pay-per-call access using Solana or USDC; the MCP Server Layer, which exposes verified blockchain tools for simulation and execution; and the Policy & Security Core, which governs every agent’s permissions, limits, and signing logic through KMS-secured protocols.
+
+Agents communicate through a simple x402 endpoint — when they request an action, the server responds with a payment requirement, validates the transaction, and grants short-lived access tokens. Once authorized, the agent can simulate or execute operations on Solana in real time, all under transparent monitoring and precise rate control. Every action — from payment to transaction result — is recorded, hashed, and stored for verifiable auditing.
+
+Runpay turns blockchain access into an intelligent, economic network of autonomous agents. It brings together the speed of Solana, the flexibility of MCP, and the accountability of x402, creating a new foundation for AI-driven automation, decentralized finance operations, and on-chain creativity.
+
+Pay, verify, and act — Runpay makes Solana truly machine-accessible.
