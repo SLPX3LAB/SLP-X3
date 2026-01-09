@@ -1,5 +1,5 @@
 [package]
-name = "Eonium-ai"
+name = "ai"
 version = "0.1.0"
 description = "Eonium AI - Swarm-based cognition framed through pulses of light."
 edition = "2021"
