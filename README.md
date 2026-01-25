@@ -1,177 +1,113 @@
- ![1500x500](https://github.com/user-attachments/assets/66dc8f22-3dcd-488b-9345-172ed0207f7c)
+![1500x500](https://github.com/user-attachments/assets/91306f04-cbf9-455c-86d3-712285d861cf)
 
-# PENG.EXE 🐧
+# ChainMon
 
-🔗 Website: https://pengexe.fun  
-🐦 Twitter: https://x.com/PENGEXECODE  
+<p align="center">
+  <a href="https://chainmon.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-chainmon.fun-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://x.com/ChainMonGrow" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-@ChainMonGrow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
 
 ---
 
 ## Overview
 
-**PENG.EXE** is an on-chain penguin process running on Solana.
+**ChainMon** brings the evolution concept of Pokémon on-chain.
 
-It is not a one-time launch.  
-It is not a finished product.  
-It is a continuously running system that observes, executes, and evolves.
+In the first phase, our main character will be **Piplup**, a cute penguin Pokémon.
 
-PENG.EXE learns from real Solana code, decomposes complex systems into modular runnable units, and improves through execution, usage, and forks.
+There is only one ChainMon in the project. It owns its own wallet and trades in real crypto markets using creator fees. There is no user control and no predefined path. Its evolution is determined entirely by its trading behavior — how it takes risk, how it holds positions, and how it survives market volatility.
 
-If software can live on-chain,  
-PENG.EXE is what it looks like when it does.
+There are no levels, feeding mechanics, or profit promises. Evolution is not a reward, but a natural outcome of its trading decisions. It may grow, regress, or even disappear.
 
----
-
-## Why PENG.EXE?
-
-Most software is built, shipped, and abandoned.
-
-PENG.EXE is built to:
-- stay online
-- keep running
-- and never pretend it is “done”
-
-It exists as a **living execution process**, not a static repository.
+**We simply place it in the market and observe.**
 
 ---
 
-## Why a Penguin?
+## How It Works
 
-Penguins survive in extreme environments.  
-They move deliberately.  
-They adapt together.
+- One autonomous on-chain entity  
+- One independent wallet  
+- Funded exclusively by creator fees  
+- Real trades executed on-chain  
+- No external deposits or manual intervention  
 
-PENG.EXE follows the same philosophy:
-- resilient by design
-- modular by nature
-- evolving through collective interaction
-
-Also, penguins look calm while doing dangerous things.
+Every trade leaves a trace. Every decision affects its state.
 
 ---
 
-## Core Concepts
+## Evolution
 
-### 🐧 Always Running
+There are no levels, experience points, or feeding mechanics.
 
-PENG.EXE does not “launch and stop.”  
-It remains active, continuously executing and refining its internal logic.
+Evolution is not a reward. It is the natural outcome of accumulated behavior over time.
 
-No artificial lifecycle.  
-No planned shutdown.
+The organism may:
+- Grow
+- Regress
+- Mutate
+- Or disappear
 
----
-
-### 🧩 Modular Execution
-
-All logic is broken down into independent, composable modules.
-
-Modules can be:
-- inspected
-- executed
-- forked
-- recombined
-
-Complex systems emerge from simple, runnable pieces.
+There are no resets.
 
 ---
 
-### 🔁 Evolution Through Forks
+## Rules
 
-Forking is not fragmentation.
-
-Forking is how PENG.EXE learns.
-
-Every fork represents:
-- a new idea
-- a new execution path
-- a new potential improvement
-
-Nothing is wasted. Everything feeds back.
+```
+[ RULES ]
+1. There is only one ChainMon. No resets.
+2. The market decides. No one else does.
+3. Creator fees are fuel, not protection.
+4. Evolution reflects behavior, not success.
+5. Failure is allowed. Observation continues.
+```
 
 ---
 
-### 🔓 Permissionless by Default
+## Contract Address (CA)
 
-Anyone can:
-- read the code
-- run the modules
-- fork the system
-- build on top of it
+```
+PASTE_YOUR_CA_HERE
+```
 
-No permissions.  
-No approvals.  
-No hidden logic.
+This is the only official contract address for ChainMon.  
+Always verify the CA through the official website and X account before interacting.
 
 ---
 
-## What PENG.EXE Is Not
+## Transparency
 
-- Not a traditional SaaS
-- Not a static protocol
-- Not a closed AI product
-- Not a roadmap-driven hype cycle
+- All activity is on-chain  
+- All funding comes from creator fees  
+- All outcomes are public and verifiable  
 
-PENG.EXE does not promise outcomes.  
-It provides a system that keeps executing.
+Nothing is hidden. Nothing is adjusted.
 
 ---
 
-## What You Can Do Today
+## Token Notice
 
-- Explore modular on-chain execution logic
-- Fork runnable components and experiment
-- Observe how systems evolve through real usage
-- Build developer tooling around modular execution
-- Contribute to a living on-chain process
+**ChainMon** is an experimental on-chain entity with no guaranteed utility, value, or financial return.
 
-If you can run it, you can change it.
+It exists as a public observation of a market-driven Pokémon, where behavior and evolution emerge naturally through real trading activity.
 
 ---
 
-## Development Philosophy
+## Links
 
-PENG.EXE follows a few simple rules:
-
-- Ship runnable systems, not slides
-- Prefer execution over explanation
-- Let usage decide what survives
-- Keep the system open and observable
-
-Nothing here is final.
-Everything here is intentional.
-
----
-
-## Status
-
-PENG.EXE is live.  
-Development is ongoing.  
-Iteration never stops.
-
-Expect:
-- frequent changes
-- breaking assumptions
-- unexpected evolution paths
-
-This is normal behavior.
+- Website: https://chainmon.fun/  
+- X (Twitter): https://x.com/ChainMonGrow  
 
 ---
 
 ## Disclaimer
 
-PENG.EXE is experimental software.
+ChainMon is an experimental project involving real on-chain activity and market risk.
 
-It may change rapidly.  
-It may break.  
-It may surprise you.
-
-Use at your own risk.
-
-Penguins are friendly.  
-Processes are not.
-
----
-
-**PENG.EXE is running.**  
-**You are early.**
+There are no guarantees of performance, continuity, or survival.  
+Participation and observation are at your own discretion.
