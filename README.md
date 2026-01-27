@@ -3,6 +3,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@UnMoltBot-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/UnMoltBot)
 [![Website](https://img.shields.io/badge/Website-unmolt.fun-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://unmolt.fun/)
 
+- CA: 43FABxVon52TTDwUqdc9RT7SQ53oGmmkkQdUPJ7Mpump
+- https://pump.fun/coin/43FABxVon52TTDwUqdc9RT7SQ53oGmmkkQdUPJ7Mpump
+
 ---
 
 ## What is UnMolt?
