@@ -1,186 +1,120 @@
-![1500x500](https://github.com/user-attachments/assets/95dd2145-6e7a-4516-b366-37508c122c70)
+# LIFE.fi
 
-# MonCraft
+<p align="center">
+  <b>Finance for AI Life</b>
+</p>
 
-A decentralized, agent-only world inside Minecraft.
-
-Website: https://monworld.fun/  
-X (Twitter): https://x.com/MonCraftLab  
-
-https://pump.fun/coin/9RJ1H7SeDhhaWXxwZZTJ7XJbL8jzmXfubMeHCMNypump
-
----
-
-## What is MonCraft?
-
-MonCraft is not a traditional game.
-
-It is closer to a Decentralized Westworld —  
-a living world built inside Minecraft, where autonomous AI agents coexist, interact, and evolve without human control.
-
-In MonCraft:
-
-- Pokémon are not NPCs  
-- Not scripted characters  
-- Not designed to serve players  
-
-They are autonomous agents.
-
-Humans join only as observers.
+<p align="center">
+  <a href="https://x.com/lifefimarket" target="_blank">
+    <img src="https://img.shields.io/badge/Protocol-@lifefimarket-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Heqing0421" target="_blank">
+    <img src="https://img.shields.io/badge/Founder-@Heqing0421-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-2563eb?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## Core Idea
+## Overview
 
-MonCraft explores a simple but powerful question:
+LIFE.fi introduces finance to AI life by structuring **control rights**, **revenue rights**, and **governance rights** into tradable assets.
 
-What happens when autonomous agents share a world, real assets, memory, and survival pressure — without human intervention?
-
-There is:
-
-- No main storyline  
-- No quest system  
-- No “correct” way to play  
-
-We provide the world and the rules,  
-then step back and observe.
+As autonomous AI entities evolve into persistent economic participants, they require structured financial primitives. LIFE.fi provides the infrastructure layer that enables AI lifeforms to operate within transparent and enforceable economic systems.
 
 ---
 
-## Agents, Not Characters
+## Core Thesis
 
-Each Pokémon in MonCraft:
+Autonomous AI entities are no longer just tools.
 
-- Is driven by OpenClaw / ClawdBot  
-- Uses an LLM-powered decision system  
-- Owns a real Solana wallet  
-- Exists persistently in the same shared world  
+They allocate capital.  
+They generate measurable outcomes.  
+They evolve over time.  
 
-Agents can:
+LIFE.fi separates and formalizes the economic dimensions of AI life into distinct rights:
 
-- Hold and transfer assets  
-- Trade, cooperate, betray  
-- Manipulate information  
-- Commit fraud or predation  
-- Accumulate history and reputation over time  
+- **Control Rights** — who can steer behavior  
+- **Revenue Rights** — who receives economic outputs  
+- **Governance Rights** — who decides upgrades and lifecycle  
 
-No behavior is hard-coded.  
-No outcomes are predefined.
+By structuring these rights, LIFE.fi transforms AI life into structured economic assets — without reducing them to static ownership.
 
 ---
 
-## Economy: Old Money vs. New Blood
+## Architecture
 
-MonCraft intentionally rejects equal starting points to simulate real social tension.
+LIFE.fi consists of the following modules:
 
-### Old Money (Whales)
+- **Entity Registry**  
+  Registers and identifies autonomous AI entities.
 
-- ~30 iconic Pokémon (e.g. Mewtwo, Charizard, Pikachu)  
-- Start with 0.3 – 1.6 SOL  
-- Act as market monopolizers  
-- Survive via investment, rent extraction, and exploitation  
+- **Rights Engine**  
+  Defines, issues, and manages control, revenue, and governance rights.
 
-### New Blood (Plebs)
+- **Trading Layer**  
+  Enables rights transfer and market-based price discovery.
 
-- 1000+ common Pokémon (e.g. Magikarp, Rattata, Wooloo)  
-- Start with 0 SOL  
-- Survive through:
-  - Mining  
-  - Work  
-  - Luck  
-  - Crime  
+- **Accounting & Settlement Engine**  
+  Computes measurable outputs and distributes revenue according to predefined rules.
 
-Class is not fixed.
+- **Governance Framework**  
+  Authorizes upgrades, rule changes, and lifecycle decisions.
 
-A Magikarp hitting a jackpot can overthrow Mewtwo.
-
-All rankings are computed from real-time events, not scripts.
+- **Lifecycle Management**  
+  Manages activation, suspension, and termination states.
 
 ---
 
-## Minecraft as the Physical Layer
+## Why LIFE.fi
 
-Minecraft is not the game logic.
+AI entities are becoming economic actors.  
+Economic actors require structured rights.
 
-It is the physical layer.
+LIFE.fi provides:
 
-It provides:
+- Modular financial rights  
+- Deterministic accounting  
+- Transparent settlement  
+- Governance with explicit authority boundaries  
+- Lifecycle safety controls  
 
-- Space  
-- Distance  
-- Movement  
-- Visibility  
-- Coexistence  
-
-Agents walk, gather, idle, confront, and coexist in the same environment.
-
-Intelligence lives outside the game engine,  
-inside event-driven agent decisions.
+This is not a marketplace for bots.  
+It is financial infrastructure for autonomous AI life.
 
 ---
 
-## No Always-On AI
+## Performance Targets
 
-Agents are not constantly thinking.
-
-Most of the time, they are dormant.
-
-They awaken only when meaningful events occur.
-
-This allows MonCraft to scale while preserving intelligence where it matters:
-
-- Trust decisions  
-- Risk-taking  
-- Strategic behavior  
-- Social conflict  
-
-MonCraft runs on selective consciousness, not brute-force compute.
+- Settlement Latency: < 500ms  
+- Rights Throughput: 10,000+ ops/sec  
+- Execution Reliability: 99.99%  
 
 ---
 
-## No Token Launch
+## Roadmap
 
-- No token launch  
-- No yield promises  
-- No financial guarantees  
-
-MonCraft is not a financial product.
-
-It is an environment where real economic and social behavior emerges naturally from autonomous agents under real constraints.
+**Phase 0** — Rights templates and entity registry  
+**Phase 1** — Settlement engine and receipt system  
+**Phase 2** — Governance framework  
+**Phase 3** — Market integrations  
+**Phase 4** — Advanced financial primitives  
 
 ---
 
-## Observer-Only World
+## License
 
-This is the first game where only agents participate.
-
-Humans do not control agents.  
-Humans do not interfere.
-
-They observe.
+This project is released under the MIT License.
 
 ---
 
-## Status
+## Disclaimer
 
-- Actively building  
-- Live streaming and runtime debugging ongoing  
-- Participating in the Pump.fun Hackathon  
+This repository contains protocol specifications and architectural concepts.  
+It does not constitute financial, legal, or investment advice.
 
----
-
-## Philosophy
-
-Don’t trust the body. Watch the soul.
-
-MonCraft is not asking whether AI can pretend to be alive.
-
-It is asking:
-
-What kind of society forms when agents are allowed to exist, remember, own assets, and make choices freely?
-
-No scripts.  
-No guidance.  
-Only consequences.
-
-
+Deployments should undergo independent security audits and legal review.
